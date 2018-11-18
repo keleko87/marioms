@@ -1,0 +1,19 @@
+==== INSTRUCCIONES Y COMENTARIOS ======
+
+1 - BASE DE DATOS -> MARIADB
+- Crear base de datos con el archivo "test_backend_PHP.sql"
+- Crear usuario en localhost (en este caso "mario" con todos los permisos para la DB "test_backend_PHP").
+
+2 - BACK -> API REST 
+- El contenido esta en la carpeta Services. Aunque solo pedía una API la parte de 2 (Contacto) de la prueba he incluido también la parte de pintar los datos en la tabla en la API.
+- Archivo htaccess para incluir lineas del mod_rewrite para "friendly URLs".
+
+3 - FRONT
+- Bootstrap para la maquetación
+- AngularJS (me ha faltado hacer un páginador o poner el contenido en un datatable)
+
+
+IMPORTANTE: Errores y partes no finalizadas
+- Falta validación en el formualario
+- Falta envio de email cuando se crea un personaje y mensajes de confirmacion de error con Toaster. 
+- Solo deja añadir un personaje una vez. La segunda vez que entras el select esta vacio. Necesario un reloadData cuando el modelo de datos cambia

@@ -1,0 +1,4 @@
+[19-Aug-2017 14:22:25 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/mariomarsan/public_html/supermario/services/api.php on line 82
+[19-Aug-2017 14:22:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mariomarsan/public_html/supermario/services/api.php on line 86
+[19-Aug-2017 14:22:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mariomarsan/public_html/supermario/services/api.php on line 86
+[19-Aug-2017 14:22:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mariomarsan/public_html/supermario/services/api.php on line 86
